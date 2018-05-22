@@ -1,0 +1,7 @@
+testOnly test.scala ScalaTest
+test
+clean
+clear
+test
+clean
+test

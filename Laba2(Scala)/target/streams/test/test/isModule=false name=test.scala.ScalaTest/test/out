@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mScalaTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Change list(Empty list)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Change list(Non-empty list)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Reverse right(Empty list)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Reverse right(Non-empty list)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Delete same key(Empty map)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Delete same key(Non-empty map)[0m[0m

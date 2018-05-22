@@ -1,0 +1,4 @@
+src/test/scala ScalaTest
+src/test/scala ScalaTest.scala
+testOnly test.scala.ScalaTest
+test
